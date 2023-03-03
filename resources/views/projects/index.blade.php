@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Laravel 8 CRUD </h2>
+                <h2>Laravel 10 CRUD with Recycle bin</h2>
             </div>
         </div>
     </div>
