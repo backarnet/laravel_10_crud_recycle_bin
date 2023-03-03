@@ -1,6 +1,6 @@
 # laravel_10_crud
-This is a laravel 10 CRUD app **with** recycle bin feature.
-forked from: [https://github.com/Kingsconsult/laravel_8_recycle_bin]([https://](https://github.com/Kingsconsult/laravel_8_recycle_bin))
+    - This is a laravel 10 CRUD app **with** recycle bin feature.
+    - forked from: [https://github.com/Kingsconsult/laravel_8_recycle_bin](https://github.com/Kingsconsult/laravel_8_recycle_bin)
 
 # upgrade laravel 8.0 project to laravel 10
 
